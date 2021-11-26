@@ -12,3 +12,6 @@ A few HTML tags I will use include:
     *Img Tags
     *Heading Tags
 I will also will be viewing my project on the web via GitHub.
+
+Update 11/26/21
+I will be styling this using an external css page and linking it to index.html
