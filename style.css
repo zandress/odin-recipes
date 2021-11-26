@@ -2,18 +2,29 @@
     text-align: center;
 }
 
+body {
+    background-image: url("./images/backgroundimg.jpg");
+    background-size: cover;
+    background-position: center;
+    background-color: blue;
+    background-repeat: no-repeat;
+}
+
 h1 {
     font-size: 64px;
+    color: navy;
 }
 
 img {
     height: auto;
     width: auto;
+    border-radius: 20%;
 }
 
 a {
     font-size: 24px;
     font-weight: 500;
+    color: white;
 }
 
 a:hover {
